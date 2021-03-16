@@ -16,3 +16,4 @@ public class Main {
         return total;
     }
 }
+
